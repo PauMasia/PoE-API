@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!--brown saddle-->
+    <color name="brown">#8b4513</color>
+    <!--fren green  -->
+    <color name="green">#4f7942</color>
+</resources>
